@@ -1,6 +1,6 @@
 # Hi, I'm Shashangka Shekhar Mandal 👋
 
-### Lead Engineer | .NET Full-Stack | Azure | Distributed Systems
+### Lead Engineer | .NET & Cloud | Distributed Systems | AI
 
 I build and lead distributed software teams — 14+ years in software engineering, 5+ years fully remote.
 
