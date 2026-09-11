@@ -66,14 +66,6 @@ I build and lead distributed software teams — 14+ years in software engineerin
 
 ---
 
-## 📊 GitHub Stats
-
-![Shashangka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashangkaShekhar&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashangkaShekhar&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashangka/)
