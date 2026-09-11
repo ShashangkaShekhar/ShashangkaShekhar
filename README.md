@@ -12,7 +12,6 @@ I build and lead distributed software teams — 14+ years in software engineerin
 - 💻 14+ years across **.NET, C#, Angular, Node.js, Azure, AWS**
 - 🌐 5+ years fully remote — distributed teams across Singapore, Bangladesh, and international clients
 - 🧠 Currently exploring **Spec-Driven Development (SDD)** and **AI-agent Harness Engineering**
-- 🎓 **Anthropic Claude Academy** certified
 - ✍️ Author of **50+ technical articles** — [C# Corner](https://www.c-sharpcorner.com/members/shashangka-shekhar), [CodeProject](https://www.codeproject.com/Members/ShashangkaShekhar), [Microsoft TechNet Wiki](https://social.technet.microsoft.com/profile/shashangka%20shekhar/), [DotNetTricks](https://www.dotnettricks.com/mentor/shashangka)
 - 🏆 **CodeProject MVP 2019** | **C# Corner MVP 2019** | **ASP.NET Technical Guru – Silver 2018**
 
@@ -60,9 +59,7 @@ I build and lead distributed software teams — 14+ years in software engineerin
 
 - 🔭 Building enterprise platforms on **.NET Core + Angular + Azure**
 - 🎓 Certified via **Anthropic Claude Academy**
-- 🌱 Learning **Spec-Driven Development** and **AI-agent Harness Engineering**
 - ✍️ Writing about .NET, C#, and modern software architecture
-- 🤝 Open to **remote Lead Engineer / Solution Architect** opportunities
 
 ---
 
